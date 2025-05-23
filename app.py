@@ -57,7 +57,7 @@ if file_upload:
 
         if prediction == "Dog":
 
-            st.info("Woof woof! Looks like a dog!")
+            st.info("Woof woof! Looks like a dog!") 
         else:
 
             st.info("Meow! That's a cat!")
